@@ -6,3 +6,124 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
+.meme {
+	display: none;
+	position: absolute;
+	width: 17vw;
+}
+
+#meme-22 {
+	top: 5vh;
+	left: 1vw;
+}
+
+#meme-21 {
+	top: 20vh;
+	right: 3vw;
+}
+
+#meme-20 {
+	top: 40vh;
+	right: 6vw;
+}
+
+#meme-19 {
+	top: 70vh;
+	left: 3vw;
+}
+
+#meme-18 {
+	top: 0vh;
+	left: 40vw;
+}
+
+#meme-17 {
+	bottom: 0vh;
+	left: 60vw;
+}
+
+#meme-16 {
+	bottom: 5vh;
+	left: 20vw;
+}
+
+#meme-15 {
+	top: 2vh;
+	right: 10vw;
+}
+
+#meme-14 {
+	top: -5vh;
+	left: 20vw;
+}
+
+#meme-13 {
+	bottom: 40vh;
+	left: 4vw;
+}
+
+#meme-12 {
+	bottom: 2vh;
+	right: 4vw;
+}
+
+#meme-11 {
+	bottom: 4vh;
+	left: 40vw;
+}
+
+#meme-10 {
+	top: 5vh;
+	right: 20vw;
+}
+
+#meme-9 {
+	top: 1vh;
+	right: 50vw;
+}
+
+#meme-8 {
+	bottom: 3vh;
+	left: 5vw;
+}
+
+#meme-7 {
+	bottom: 1vh;
+	right: 50vw;
+}
+
+#meme-6 {
+	top: 3vh;
+	right: 30vw;
+}
+
+#meme-5 {
+	bottom: 0vh;
+	right: 15vw;
+}
+
+#meme-4 {
+	bottom: 30vh;
+	left: 0vw;
+}
+
+#meme-3 {
+	bottom: 40vh;
+	right: 0vw;
+}
+
+#meme-3 {
+	bottom: 40vh;
+	right: 0vw;
+}
+
+#meme-2 {
+	top: 0vh;
+	right: 0vw;
+}
+
+#meme-1 {
+	bottom: 0vh;
+	right: 0vw;
+}

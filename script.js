@@ -123,6 +123,7 @@ function mousePressed() {
   if (!drawingCompleted &&
       guideDots[currentIndex].within(mouseX, mouseY)) {
     dots.push(new Dot(mouseX, mouseY));
+    imageAppear();
     currentIndex++;
     lastPos.x = mouseX;  
     lastPos.y = mouseY;
@@ -130,6 +131,10 @@ function mousePressed() {
       drawingCompleted = true;
     }
   }
+}
+
+function imageAppear() {
+  document.getElementById("meme-"+(22-currentIndex)).style.display = "block"
 }
 
 function mouseMoved() {
