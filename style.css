@@ -127,3 +127,8 @@ body {
 	bottom: 0vh;
 	right: 0vw;
 }
+
+#title {
+	position: absolute;
+	top:10vh;
+}
